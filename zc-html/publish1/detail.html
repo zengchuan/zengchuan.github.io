@@ -1,0 +1,39 @@
+<div ng-controller='ZCNewsDetailController' class="zc-news-detail">
+    <div class="zc-title">
+        {{publishNewsMaster.newsTitle}}
+    </div>
+    <div class="zc-title-memo">
+        <p>{{publishNewsMaster.createDate | date: 'yyyy-MM-dd HH:mm'}} {{publishNewsMaster.authorName}}</p>
+    </div>
+    <div ng-repeat="publishNewsDetail in publishNewsDetailList track by $index">
+        <p ng-if="publishNewsDetail.contentFormatId === '1'"
+           class="zc-detail"
+           ng-bind-html="deliberatelyTrustDangerousSnippet(publishNewsDetail.contentTxt)"
+                >
+        </p>
+
+        <div ng-if="publishNewsDetail.contentFormatId === '2'" >
+            <img class="zc-news-image" ng-src="{{publishNewsDetail.contentBinary}}" >
+        </div>
+
+        <div ng-if="publishNewsDetail.contentFormatId === '3'" >
+            <video class="zc-news-video"
+                   ng-src="{{publishNewsDetail.contentUrl | trusted}}"
+                   ng-poster="deliberatelyTrustDangerousSnippet(publishNewsDetail.contentBinary)"
+                   controls>
+            </video>
+        </div>
+    </div>
+
+    <hr>
+    <div>
+        <img class="zc-news-image" src="images/ggwzz.jpg" >
+    </div>
+    <div class="zc-news-version">
+        <img src="images/version-link.png" >
+    </div>
+    <div class="zc-news-version">
+        <p>Angular2中国，学习angular的app</p>
+        <p>扫二维码或者点击<a href="http://a.app.qq.com/o/simple.jsp?pkgname=io.ionic.starter">下载</a></p>
+    </div>
+</div>

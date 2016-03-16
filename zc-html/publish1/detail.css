@@ -1,0 +1,46 @@
+.zc-news-detail .zc-news-video {
+    width: 98%;
+    text-align: center;
+    height: 200px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.zc-news-detail .zc-news-image {
+    width: 98%;
+    text-align: center;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.zc-news-detail .zc-title {
+    white-space: normal;
+    padding-top: 10px;
+    margin-left: 4px;
+    margin-right: 5px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.zc-news-detail .zc-title-memo {
+    margin-left: 4px;
+    margin-right: 5px;
+}
+
+.zc-news-detail .zc-detail {
+    font-size: 16px;
+    margin-left: 4px;
+    margin-right: 5px;
+    margin-top: 5px;
+    line-height: 1.4em;
+}
+
+.zc-news-detail .zc-news-version {
+    width: 80%;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 10px;
+}
+
+
