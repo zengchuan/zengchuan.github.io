@@ -1,4 +1,4 @@
 [
- {'title':'', 'icon': '', 'params': {'dataType':'100', 'newsTitle':'Angular2', 'imageOrThumbnail': 'image'}}
-,{'title':'', 'icon': '', 'params': {'dataType':'101', 'newsTitle':'视频资料', 'imageOrThumbnail': 'thumbnail'}}
+ {"title":"", "icon": "", "params": {"dataType":"100", "newsTitle":"Angular2", "imageOrThumbnail": "image"}}
+,{"title":"", "icon": "", "params": {"dataType":"101", "newsTitle":"视频资料", "imageOrThumbnail": "thumbnail"}}
 ]
