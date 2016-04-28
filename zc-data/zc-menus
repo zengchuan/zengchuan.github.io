@@ -1,0 +1,4 @@
+[
+ {'title':'JAVA', 'icon': 'cloud', 'params': {'dataType':'102', 'newsTitle':'JAVA','imageOrThumbnail': 'image'}}
+,{'title':'故乡', 'icon': 'moon', 'params': {'dataType':'12', 'newsTitle':'故乡', 'imageOrThumbnail': 'image'}}
+]
