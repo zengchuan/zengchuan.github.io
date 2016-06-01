@@ -1,1 +1,1 @@
-{'user':[{"url":"https://zengchuan-user1.firebaseio.com", "create": true}, {"url":"https://zengchuan-user2.firebaseio.com", "create": true}],'message':[{"url":"https://zengchuan-message1.firebaseio.com", "create": true}, {"url":"https://zengchuan-message2.firebaseio.com", "create": true}]}
+{'user':[{"url":"https://zengchuan-user1.firebaseio.com", "create": true}, {"url":"https://zengchuan-user2.firebaseio.com", "create": true}],'message':[{"url":"https://zengchuan-message.firebaseio.com", "create": true}, {"url":"https://zengchuan-message2.firebaseio.com", "create": true}]}
