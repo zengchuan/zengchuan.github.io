@@ -13,43 +13,15 @@
       },
       "auth": false,
       "create": true
-    },
-    {
-      "config": {
-        "apiKey": "AIzaSyBTqBnfiOQFyNlIfT9jp5kKVbXkGHGGtoc",
-        "authDomain": "zengchuan-user2.firebaseapp.com",
-        "databaseURL": "https://zengchuan-user2.firebaseio.com",
-        "storageBucket": "zengchuan-user2.appspot.com"
-      },
-      "authinfo": {
-        "mail": "zengchuan@sina.com",
-        "password": "zeng21122112"
-      },
-      "auth": false,
-      "create": true
     }
   ],
   "message": [
     {
       "config": {
-        "apiKey": "AIzaSyCcDEIjjAZ5yviBCRm-RKpOXYHfgkSprQY",
-        "authDomain": "zengchuan-message.firebaseapp.com",
-        "databaseURL": "https://zengchuan-message.firebaseio.com",
-        "storageBucket": "zengchuan-message.appspot.com"
-      },
-      "authinfo": {
-        "mail": "zengchuan@sina.com",
-        "password": "zeng21122112"
-      },
-      "auth": false,
-      "create": true
-    },
-    {
-      "config": {
-        "apiKey": "AIzaSyApml7LB0af6Fbu3bbjFrBMMA7zun3LQas",
-        "authDomain": "zengchuan-message2.firebaseapp.com",
-        "databaseURL": "https://zengchuan-message2.firebaseio.com",
-        "storageBucket": "zengchuan-message2.appspot.com"
+        "apiKey": "AIzaSyC7Q625hIaMo0t4M3c0O08Q9itqwP3DY5Y",
+        "authDomain": "zengchuan-user1.firebaseapp.com",
+        "databaseURL": "https://zengchuan-user1.firebaseio.com",
+        "storageBucket": "zengchuan-user1.appspot.com"
       },
       "authinfo": {
         "mail": "zengchuan@sina.com",
