@@ -2,10 +2,10 @@
   "user": [
     {
       "config": {
-        "apiKey": "AIzaSyC7Q625hIaMo0t4M3c0O08Q9itqwP3DY5Y",
-        "authDomain": "zengchuan-user1.firebaseapp.com",
-        "databaseURL": "https://zengchuan-user1.firebaseio.com",
-        "storageBucket": "zengchuan-user1.appspot.com"
+        "apiKey": "AIzaSyBTqBnfiOQFyNlIfT9jp5kKVbXkGHGGtoc",
+        "authDomain": "zengchuan-user2.firebaseapp.com",
+        "databaseURL": "https://zengchuan-user2.firebaseio.com",
+        "storageBucket": "zengchuan-user2.appspot.com"
       },
       "authinfo": {
         "mail": "zengchuan@sina.com",
@@ -18,10 +18,10 @@
   "message": [
     {
       "config": {
-        "apiKey": "AIzaSyC7Q625hIaMo0t4M3c0O08Q9itqwP3DY5Y",
-        "authDomain": "zengchuan-user1.firebaseapp.com",
-        "databaseURL": "https://zengchuan-user1.firebaseio.com",
-        "storageBucket": "zengchuan-user1.appspot.com"
+        "apiKey": "AIzaSyBTqBnfiOQFyNlIfT9jp5kKVbXkGHGGtoc",
+        "authDomain": "zengchuan-user2.firebaseapp.com",
+        "databaseURL": "https://zengchuan-user2.firebaseio.com",
+        "storageBucket": "zengchuan-user2.appspot.com"
       },
       "authinfo": {
         "mail": "zengchuan@sina.com",
